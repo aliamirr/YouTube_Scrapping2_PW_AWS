@@ -11,6 +11,3 @@
 * Goto: Deployment
     * Continious Dep: Enable
 ```
-* yml file auto created by Azure for deployment
-    * .github/workflows/tproj-image_scrap_deploy_image-scrap.yml
-    * Delete this if want to deploy again
